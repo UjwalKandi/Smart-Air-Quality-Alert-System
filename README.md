@@ -7,6 +7,10 @@ Air Quality Alert System built on M5StickC Plus integrated with AT6558 and SGP30
 - TVOC/eCO2 Gas Sensor Unit (SGP30)
 - Qubitro Data Platform
 
+<p align="center">
+<img src="files/seq_diag.png" width="800" height="400" border="10"/>
+</p>
+
 ### Existing Solutions (As of January 2023)
 Current air quality monitoring solutions often consist of standalone
 sensors or mobile applications.
@@ -64,6 +68,18 @@ precise location tracking.
 - Device 2 is equipped with an SGP30 sensor for
 real-time air quality monitoring.
 
+<p align="center">
+<img src="files/airquality-1.png" width="800" height="500" border="10"/>
+</p>
+
+<p align="center">
+<img src="files/airquality.png" width="800" height="500" border="10"/>
+</p>
+
+<p align="center">
+<img src="files/demo.png" width="1600" height="800" border="10"/>
+</p>
+
 #### INTEGRATION HUB
 
 - Qubitro platform acts as the central hub for data
@@ -88,6 +104,10 @@ Users can access
 integrated data for
 visualization and
 analysis.
+
+<p align="center">
+<img src="files/Untitled Diagram.drawio.png" width="800" height="400" border="10"/>
+</p>
 
 ### Benefits
 
