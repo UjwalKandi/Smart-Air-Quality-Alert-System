@@ -69,15 +69,15 @@ precise location tracking.
 real-time air quality monitoring.
 
 <p align="center">
-<img src="files/airquality-1.png" width="800" height="500" border="10"/>
+<img src="files/airquality-1.png" width="400" height="250" border="10"/>
 </p>
 
 <p align="center">
-<img src="files/airquality.png" width="800" height="500" border="10"/>
+<img src="files/airquality.png" width="400" height="250" border="10"/>
 </p>
 
 <p align="center">
-<img src="files/demo.png" width="1600" height="800" border="10"/>
+<img src="files/demo.png" width="800" height="400" border="10"/>
 </p>
 
 #### INTEGRATION HUB
