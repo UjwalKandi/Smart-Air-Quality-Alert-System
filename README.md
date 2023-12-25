@@ -77,7 +77,7 @@ real-time air quality monitoring.
 </p>
 
 <p align="center">
-<img src="files/demo.png" width="800" height="400" border="10"/>
+<img src="files/demo.png" width="800" height="500" border="10"/>
 </p>
 
 #### INTEGRATION HUB
