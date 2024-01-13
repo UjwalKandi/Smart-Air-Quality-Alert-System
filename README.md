@@ -30,6 +30,7 @@ addressing the limitations of current solutions, particularly in enhancing
 user interaction, data accuracy, and the integration of diverse
 environmental parameters.
 
+
 ### Room for Innovation
 **Integration and Interoperability:** Opportunities exist to create a more integrated solution
 where GPS and air quality data are seamlessly combined and communicated to a
@@ -81,7 +82,6 @@ real-time air quality monitoring.
 </p>
 
 #### INTEGRATION HUB
-
 - Qubitro platform acts as the central hub for data
 integration and analysis.
 
@@ -89,7 +89,6 @@ integration and analysis.
 devices and data storage.
 
 ### Data Flow
-
 *Step 1* -
 M5StickC devices
 collect real-time data.
@@ -110,18 +109,6 @@ analysis.
 </p>
 
 ### Benefits
-
 - Accurate tracking of user movement.
 - Early detection of air quality issues.
 - Seamless integration for a user-friendly experience.
-
-### Summary
-**Guiding Users:** Beyond data analysis, our project practically guides users to areas with
-better air quality, enhancing their daily choices.
-
-**Environmental Research:** The project's potential extends to broader environmental
-research, contributing valuable data for scientific investigations.
-
-**Community-Driven Data Collection:** Emphasizing a community-driven approach, users
-actively contribute to a collective understanding of air quality.
-
